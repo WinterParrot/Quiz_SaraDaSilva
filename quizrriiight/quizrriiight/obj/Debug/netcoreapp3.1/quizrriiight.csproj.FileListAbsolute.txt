@@ -1,0 +1,13 @@
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.csprojAssemblyReference.cache
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.AssemblyInfoInputs.cache
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.AssemblyInfo.cs
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.csproj.CoreCompileInputs.cache
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\bin\Debug\netcoreapp3.1\quizrriiight.exe
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\bin\Debug\netcoreapp3.1\quizrriiight.deps.json
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\bin\Debug\netcoreapp3.1\quizrriiight.runtimeconfig.json
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\bin\Debug\netcoreapp3.1\quizrriiight.runtimeconfig.dev.json
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\bin\Debug\netcoreapp3.1\quizrriiight.dll
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\bin\Debug\netcoreapp3.1\quizrriiight.pdb
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.dll
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.pdb
+C:\Users\saras\Desktop\wallpaper\quizrriiight\quizrriiight\obj\Debug\netcoreapp3.1\quizrriiight.genruntimeconfig.cache
